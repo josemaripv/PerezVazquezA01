@@ -15,10 +15,13 @@ Principalmente saber posicionar elementos y el diseño
 **5. Quinto Contenedor**: Similar al anterior pero aumentando el espacio de los contenedores cuadrados y reduciendo el de las columnas
 
 ## Componente Utilizados
-    **Row**: Para la organización de los contenedores
-    **Padding**: Para ajustar el espacio
-    **Expanded**: Para ocupar el espacio de forma proporcional
-    **Flex**: Para especificar la cantidad de espacio que se ocupa
+**Row**: Para la organización de los contenedores
+
+**Padding**: Para ajustar el espacio
+
+**Expanded**: Para ocupar el espacio de forma proporcional
+
+**Flex**: Para especificar la cantidad de espacio que se ocupa
 
 ## Interfaz
 
